@@ -1,1 +1,1 @@
-This project is about a music player app, an ALX capstine project
+This project is about a music player app, an ALX capstone project
