@@ -7,7 +7,7 @@ function App() {
 
   return (
       <div>
-        Home
+        <h1 className='text-center text-2xl text-slate-900 bg-sky-500'>Music player App</h1>
       </div>
 
   );
